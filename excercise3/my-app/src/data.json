@@ -1,0 +1,46 @@
+{
+"items": [
+    {
+        "id": 1,
+        "name": "Seagate Portable 2TB External Hard Drive",
+        "price": 62.99,
+        "rating": 4.3,
+        "image": "seagate.png"
+    },
+    {
+        "id": 2,
+        "name": "Logitech MK270 Wireless Keyboard and Mouse Combo",
+        "price": 54.99,
+        "rating": 3.7,
+        "image": "logitech.png"
+    },
+    {
+        "id": 3,
+        "name": "Apple MacBook",
+        "price": 899.99,
+        "rating": 1.2,
+        "image": "apple.png"
+    },
+    {
+        "id": 4,
+        "name": "H390 Wired Headset",
+        "price": 19.99,
+        "rating": 1.8,
+        "image": "headset.png"
+    },
+    {
+        "id": 5,
+        "name": "Sceptre Ultra Gamer Screen",
+        "price": 1899.99,
+        "rating": 4.2,
+        "image": "näyttö.png"
+    },
+    {
+        "id": 6,
+        "name": "Logitech L920X Pro Webcam",
+        "price": 69.99,
+        "rating": 3.2,
+        "image": "webcam.png"
+    }
+]
+}

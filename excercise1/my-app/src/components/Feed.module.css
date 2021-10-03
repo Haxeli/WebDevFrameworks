@@ -1,0 +1,19 @@
+.Feed {
+    display: inline-block;
+    margin: 0px 15px 0px 160px;
+
+}
+
+.Mainbar {
+    
+    margin: 20px 0px 0px 0px;
+    padding: 20px;
+    background-color: white;
+    text-align: left;
+    width: 658px;
+
+}
+
+.Highlight {
+    color: rgb(0, 78, 141);
+}

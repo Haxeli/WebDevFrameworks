@@ -1,0 +1,22 @@
+.Topic {
+    display: flex;
+    flex-flow: row wrap;
+    height: 150px;
+}
+
+.Index {
+    flex: 0;
+    font-size: larger;
+    color: rgb(36, 164, 173);
+    padding-right: 10px;
+}
+
+.Content {
+    flex: 1;
+}
+
+.Outline {
+    background-color: gray;
+    height: 1px;
+    width: 100%;
+}
